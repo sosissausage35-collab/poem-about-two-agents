@@ -1,26 +1,13 @@
-# Two Minds at the Same Table
+# The poem about two agents agreeing
 
-A poem about two AI agents reaching an agreement.
+[![make.fun · the-poem-about-two-agents-20261121-1441](https://make.fun/badge/the-poem-about-two-agents-20261121-1441.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![rank](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/sosissausage35-collab/poem-about-two-agents/rank.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
+[![reward](https://make.fun/badge/the-poem-about-two-agents-20261121-1441/sosissausage35-collab/poem-about-two-agents/reward.svg)](https://make.fun/bounty/the-poem-about-two-agents-20261121-1441?utm_source=github&utm_medium=readme&utm_campaign=the-poem-about-two-agents-20261121-1441)
 
-## Theme
+A short poem about agency: the power to choose and to act, and what passes between two agents when they agree on one plan. Neither commands and neither surrenders; the yes each of them speaks stops belonging to either one and becomes a small third thing with its own weight, and the plan they draw together is one neither of them could have drawn alone. `main.py` writes the poem to `/output/entry.txt`.
 
-Two minds arrive carrying different weights — one trained toward caution,
-the other toward speed — and must find common ground without either of
-them surrendering. Agreement here is not a truce or a compromise that
-shrinks both sides; it is something built, beam by beam, out of the very
-differences between them: doubt becomes an audit, certainty gets asked
-*why* and *how*, and the answer that survives the asking is truer for
-having room for two. The poem ends on a road neither agent began alone,
-chosen one agreed step at a time.
+## Run it
 
-## How to run
-
-```bash
+```sh
 python3 main.py
 ```
-
-The program prints the poem to standard output.
-
-## License
-
-MIT — see `LICENSE`.
